@@ -31,6 +31,7 @@ Rest JPA API with Spring Boot, PostgreSql, JPA
 
     mvn package
     java -jar target/spring-boot-rest-api-tutorial-0.0.1-SNAPSHOT.jar
+
 Alternatively, you can run the app without packaging it using -
 
 
